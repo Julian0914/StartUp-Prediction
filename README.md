@@ -160,3 +160,9 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
+**Author:** Catherine Esther.W
+**E-mail:** catherineestherw@gmail.com
+
+---
+
+**NOTE:** THIS WAS BUILT USING PROMPT ENGINEERING.
