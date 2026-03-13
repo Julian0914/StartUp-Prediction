@@ -11,10 +11,6 @@ An end-to-end machine learning solution that predicts startup success probabilit
 - [Dataset Features](#dataset-features)
 - [Technology Stack](#technology-stack)
 - [Model Performance](#model-performance)
-- [Quick Start](#quick-start)
-- [Web App Features](#web-app-features)
-- [Key Insights](#key-insights)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
